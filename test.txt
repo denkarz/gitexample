@@ -1,2 +1,2 @@
-First commit
+First commit (1)
 New commit (Bob)
